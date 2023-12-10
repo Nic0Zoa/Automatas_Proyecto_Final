@@ -1,9 +1,6 @@
 # Purple Place Bakery Automaton
 
-# Integrantes
-- Nicolás Cáceres Mónoga 2220050
-- David Fernando Naranjo Rangel 2220046
-- Óscar Carreño Serpa 2220039
+![Banner](Banner.png)
 
 El siguiente repositorio contiene los recursos utilizados durante la elaboración del proyecto _Purple Place Bakery Automaton_. Entre los recursos se encuentra:
 
